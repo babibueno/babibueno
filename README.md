@@ -4,7 +4,6 @@
 
 Web3 explorer based in Italy 🇮🇹  
 Learning Solidity, Hardhat & smart contracts  
-Building in public as @barbaracodes 💫
 
 - 🧪 Currently testing smart contracts on Sepolia  
 - 🧠 Passionate about decentralized technologies  
