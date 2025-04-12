@@ -3,14 +3,17 @@
 <!--
 **babibueno/babibueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Barbara 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Web3 explorer based in Italy 🇮🇹  
+Learning Solidity, Hardhat & smart contracts  
+Building in public as [@barbaracodes](https://github.com/babibueno) 💫
+
+- 🧪 Currently testing smart contracts on Sepolia
+- 🧠 Passionate about decentralized technologies
+- 🌍 Also love travel, languages, and good design
+- 💻 My site: [https://barbarabueno.com](https://barbarabueno.com)
+
+Feel free to check out my learning journey and projects!
+
 -->
